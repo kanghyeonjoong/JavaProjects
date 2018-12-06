@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;sec05.exam05_predicate&apos; to &apos;sec05.exam06_predicate&apos;&#x0D;&#x0A;- Original project: &apos;chap14&apos;&#x0D;&#x0A;- Original element: &apos;chap14/src/sec05.exam05_predicate&apos;&#x0D;&#x0A;- Renamed element: &apos;chap14/src/sec05.exam06_predicate&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;sec05.exam05_predicate&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;sec05.exam05_predicate" name="sec05.exam06_predicate" qualified="false" references="true" stamp="1543392910283" textual="false" version="1.0"/>
+</session>

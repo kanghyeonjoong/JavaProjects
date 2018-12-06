@@ -1,0 +1,15 @@
+package sec05.exam01_treeset;
+
+import java.util.TreeSet;
+
+public class TreeSetExample {
+
+	public static void main(String[] args) {
+		TreeSet<Integer> scores = new TreeSet<>();
+		scores.add(new Inetger(87));
+		scores.add(new Integer(98));
+		scores.addAll(new Integer(75), new Integer(95), new Integer(80));
+
+	}
+
+}
